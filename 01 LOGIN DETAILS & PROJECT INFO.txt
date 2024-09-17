@@ -1,0 +1,13 @@
+
+
+**Database Name: membershiphp**
+
+**Developed by Mudit Bhargava**
+
+**Recommended PHP Version 7**
+
+
+**Login Details**
+
+Email   : hr@deshyoga.org
+Password: De$hyog@2019
